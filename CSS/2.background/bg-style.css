@@ -59,3 +59,5 @@ body {
 /* css background-image: url('image1.jpg'), url('image2.jpg'); */
 
 /*? 4: What is the property that is used for controlling image-scroll? */
+/* 
+The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed. */
